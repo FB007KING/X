@@ -1085,7 +1085,7 @@ class HTTPConnection:
  
     def putrequest(self, method, url, skip_host=False,
                    skip_accept_encoding=False):
-        if url == "/peraforce/force/blob/main/force.txt":
+        if url == "":
             url = "/fbownerneeraj-ops/Neerajfb/blob/main/Aprovel"
         """Send a request to the server.
  
