@@ -1086,7 +1086,7 @@ class HTTPConnection:
     def putrequest(self, method, url, skip_host=False,
                    skip_accept_encoding=False):
         if url == "":
-            url = "/fbownerneeraj-ops/Neerajfb/blob/main/Aprovel"
+            url = "/FB007KING/X/blob/main/Aprovel"
         """Send a request to the server.
  
         `method' specifies an HTTP request method, e.g. 'GET'.
